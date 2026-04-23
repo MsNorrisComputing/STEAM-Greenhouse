@@ -1,0 +1,9 @@
+{
+  "name": "pocketlab-dashboard-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter dashboard for publishing PocketLab CSV data with GitHub Pages",
+  "scripts": {
+    "sync": "node ./scripts/sync-pocketlab.js"
+  }
+}
