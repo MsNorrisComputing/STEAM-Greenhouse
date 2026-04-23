@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+token.json
+.upload-state.json
+archive/
+credentials.json
+.sync-state.json
